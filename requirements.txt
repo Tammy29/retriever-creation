@@ -1,3 +1,22 @@
+langchain== 0.0.353
+PyPDF2==3.0.1
+streamlit_option_menu== 0.3.6
+faiss-cpu==1.7.4
+
+pypdf==3.16.3
+anthropic==0.3.11
+
+openpyxl==3.1.2
+
+streamlit==1.28.1
+boto3==1.33.13
+
+s3fs==2023.12.2
+tabulate==0.9.0
+rank_bm25==0.2.2
 python-docx==1.1.0
-"unstructured[all-docs]"
+
+unstructured[all-docs]==0.10.30
 Spire.XLS-for-Python==13.5.0
+opencv-python==4.8.1.78
+sentence-transformers==2.2.2
